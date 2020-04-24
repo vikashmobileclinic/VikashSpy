@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://github.com/XploitWizer/XploitSPY/blob/herooku/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/vikashmobileclinic/VikashSpy/blob/herooku/assets/webpublic/logo.png" height="60"><br>
 A cloud based Android Monitoring Tool, powered by NodeJS
 </p>
 
-<a href="https://heroku.com/deploy?template=https://github.com/XploitWizer/XploitSPY/tree/herooku">
+<a href="https://heroku.com/deploy?template=https://github.com/vikashmobileclinic/VikashSpy/tree/herooku">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
@@ -30,8 +30,8 @@ Bitcoin : 3HwzRLbZxFVxyZzLoEHFnoB5RVKfzwxDbf
 Paypal : https://paypal.me/raomk
 
 ## Disclaimer
-<b>XploitWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
+<b>VikashSpyWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+VikashSpy is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="https://xploitwizer.com">XploitWizer</a></p>
