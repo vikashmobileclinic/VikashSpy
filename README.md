@@ -34,5 +34,5 @@ Paypal :
 VikashSpy is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By Wizer VikashSpy
+<p align="center">Made with ❤️ By VikashSpy
 
