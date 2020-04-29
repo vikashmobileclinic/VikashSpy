@@ -25,14 +25,14 @@ A cloud based Android Monitoring Tool, powered by NodeJS
 
 ## Buy us a Coffee
 
-Bitcoin : 3HwzRLbZxFVxyZzLoEHFnoB5RVKfzwxDbf
+Bitcoin : 
 
-Paypal : https://paypal.me/raomk
+Paypal :
 
 ## Disclaimer
-<b>VikashSpyWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+<b>VikashSpy Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 VikashSpy is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://xploitwizer.com">XploitWizer</a></p>
+<p align="center">Made with ❤️ By Wizer VikashSpy
 
